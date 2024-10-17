@@ -34,8 +34,7 @@ Este projeto é uma aplicação de gerenciamento de horários escolares desenvol
 Para instalar as dependências do projeto, utilize o seguinte comando:
 
 ```bash
-pip install fpdf
-pip install PySide6
+pip install PySide6 fpdf
 ```
 
 ## Uso
