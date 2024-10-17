@@ -26,7 +26,7 @@ Este projeto é uma aplicação de gerenciamento de horários escolares desenvol
 ## Tecnologias Utilizadas
 
 - Python
-- PySide2
+- PySide6
 - FPDF
 
 ## Instalação
@@ -34,7 +34,8 @@ Este projeto é uma aplicação de gerenciamento de horários escolares desenvol
 Para instalar as dependências do projeto, utilize o seguinte comando:
 
 ```bash
-pip install PySide2 fpdf
+pip install fpdf
+pip install PySide6
 ```
 
 ## Uso
